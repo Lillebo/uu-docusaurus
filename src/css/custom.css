@@ -17,8 +17,8 @@
   --ifm-code-font-size: 95%;
 }
 
-.menu__link {
-  border-radius:0;
+.button.button--secondary.button--outline:not(.button--active):not(:hover) {
+  color: white;
 }
 
 .menu__link--active {
